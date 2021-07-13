@@ -1,0 +1,2 @@
+matplotlib 3.4.2 
+plotly 5.1.0
